@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9AE7-B7FD
+
+ Directory of C:\Users\KIRTIKUMAR\Desktop\MyProjects
+
+04/10/2021  05:43 PM    <DIR>          .
+04/10/2021  05:43 PM    <DIR>          ..
+04/03/2021  04:54 PM                 0 .gitmodules
+04/10/2021  04:39 PM               717 april102021.txt
+04/03/2021  04:54 PM                23 Hello.js
+04/03/2021  04:54 PM                13 README.md
+04/03/2021  04:54 PM                18 test1
+04/03/2021  04:56 PM               561 test22.txt
+04/03/2021  06:43 PM               611 test3.txt
+04/10/2021  05:22 PM               723 testbrachfolder
+04/10/2021  05:43 PM                 0 test_apr.txt
+               9 File(s)          2,666 bytes
+               2 Dir(s)  659,372,277,760 bytes free
